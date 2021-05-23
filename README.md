@@ -13,13 +13,13 @@
 
 ### Table of Contents
 
-- Demo question
+1. Demo question
 
 ## 
 
 
 ### Questions & Answers
-- **Demo Question** 
+1. **Demo Question** 
 <br>
 => Demo answer
 
