@@ -11,6 +11,13 @@
 ## 
 
 
+In September 1995, a Netscape programmer named Brandan Eich developed a new scripting language in just 10 days. It was originally named Mocha, but quickly became known as LiveScript and, later, JavaScript. <br>
+
+Brendan Eich is an American technologist. He co-founded the Mozilla project, the Mozilla Foundation and the Mozilla Corporation, and served as the Mozilla Corporation's chief technical officer and, briefly, as its chief executive officer. 
+
+## 
+
+
 ### Table of Contents
 
 1. TBA
