@@ -8,26 +8,32 @@
 
 </p>
 
-
-## Install
-
-Install commands:
-``` 
-- git clone https://github.com/nhrrob/javascript-interview-questions.git 
-- composer update
-- add .env and update database settings
-- php artisan migrate:fresh --seed
-- php artisan serve
-
-```
+## 
 
 
-## License
+### Table of Contents
 
-The Laravel 7 Crud is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+- Demo question
+
+## 
 
 
-## Contact
+### Questions & Answers
+- **Demo Question** 
+<br>
+=> Demo answer
+
+## 
+
+
+### License
+
+'Javascript Interview Questions' is open-sourced project licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+##
+
+
+### Contact
 
 Feel free to contact:  
 <a href="https://www.nazmulrobin.com/">nazmulrobin.com</a> | <a href="https://twitter.com/nhr_rob">Twitter</a> | <a href="https://www.linkedin.com/in/nhrrob/">Linkedin</a> | <a href="mailto:robin.sust08@gmail.com">Email</a>
